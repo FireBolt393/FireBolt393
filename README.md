@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Life is just a hallucination that is created by breathing oxygen. Stop breathing, and it all goes away 🧘‍♂️.
 
-- 🔗 My LinkedIn: https://www.linkedin.com/in/adarsh-p-833272301/
+- 🔗 My LinkedIn profile: https://www.linkedin.com/in/adarsh-p-833272301/
 
 <!---
 FireBolt393/FireBolt393 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
