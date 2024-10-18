@@ -1,5 +1,5 @@
 - 👋 Hola, I’m @FireBolt393
-- 👀 Interested in Python🐍 and java☕
+- 👀 Interested in Python🐍, java☕ and c⚙️
 - 🌱 Currently learning Ethical hacking
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Life is just a hallucination that is created by breathing oxygen. Stop breathing, and it all goes away 🧘‍♂️.
